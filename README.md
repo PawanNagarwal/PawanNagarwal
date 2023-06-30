@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PawanNagarwal
-- 👀 I’m currently working as machine learning developer at Durapid Technologies.
+- 👀 I’m currently working as AI/ML Engineer at Sarvika Technologies.
 - 💞️ I’m looking for new opportunities in data science domain.
 - 📫 How to reach me :- pwnnhanrj@gmail.com
 <!---
